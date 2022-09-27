@@ -28,7 +28,7 @@ public class Main {
                 acc1.withdraw(amount);
             }
             choice = inputInt("""
-                What would you like to do? 
+                What would you like to do?
                 1. Display amount
                 2. Deposit money
                 3. Withdraw money
